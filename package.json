@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "planck-js": "^0.3.12",
+    "webpack": "^4.41.5"
+  },
+  "name": "Ranidae",
+  "version": "0.0.0",
+  "description": "Ranidae game",
+  "main": "index.js",
+  "repository": "https://github.com/Edralo/Ranidae",
+  "author": "Edralo",
+  "license": "MIT"
+}
